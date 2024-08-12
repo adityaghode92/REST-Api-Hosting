@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "64c23601e32f4a51b19b9262",
+        "name": "Smartphone Model X",
+        "company": "64c23350e32f4a51b19b9230",
+        "price": 699,
+        "colors": ["#000000", "#ffffff", "#ff0000"],
+        "image": "/images/product-smartphone.png",
+        "category": "64c2342de32f4a51b19b924e",
+        "isFeatured": false
+    },
+    {
+        "_id": "64c23601e32f4a51b19b9268",
+        "name": "Outdoor Camping Tent",
+        "company": "64c23350e32f4a51b19b9236",
+        "price": 299,
+        "colors": ["#333333", "#99cc00", "#ffcc00"],
+        "image": "/images/product-tent.png",
+        "category": "64c2342de32f4a51b19b9252",
+        "isFeatured": false
+    },
+    {
+        "_id": "64c23601e32f4a51b19b9269",
+        "name": "Building Blocks Set",
+        "company": "64c23350e32f4a51b19b9237",
+        "price": 49,
+        "colors": ["#ff0000", "#00ff00", "#0000ff"],
+        "image": "/images/product-building-blocks.png",
+        "category": "64c2342de32f4a51b19b9253",
+        "isFeatured": true
+    },
+    {
+        "_id": "64c23601e32f4a51b19b926a",
+        "name": "Car Jump Starter",
+        "company": "64c23350e32f4a51b19b9238",
+        "price": 89,
+        "colors": ["#000000", "#999999", "#00ff00"],
+        "image": "/images/product-jump-starter.png",
+        "category": "64c2342de32f4a51b19b924f",
+        "isFeatured": false
+    },
+    {
+        "_id": "64c23601e32f4a51b19b926b",
+        "name": "Cookware Set",
+        "company": "64c23350e32f4a51b19b9239",
+        "price": 149,
+        "colors": ["#ffffff", "#ffcc00", "#cc9900"],
+        "image": "/images/product-cookware.png",
+        "category": "64c2342de32f4a51b19b924f",
+        "isFeatured": false
+    }
+]
